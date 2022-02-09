@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82110564/152652811-e7f7ea86-d7a8-4148-8f61-add6a5491e65.png" align="center" />
-  <h1 align="center">Blend_My_NFTs</h1>
+  <h1 align="center">BMNFTs_Examples</h1>
 </p>
 <p align="center">
 <a href="https://twitter.com/LeonardTorrin" rel="nofollow"><img src="https://img.shields.io/badge/created%20by-@LeonardTorrin-4BBAAB.svg" alt="Created by Torrin Leonard"></a>
