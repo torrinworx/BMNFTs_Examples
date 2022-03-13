@@ -11,6 +11,8 @@
 </p>
 
 ## Files by Versions and YouTube Tutorials: 
+- `Logic_Example.blend`
+  - None
 
 - `Cozy Place Example.blend` 
   - [Easily generate 3D Model NFTs in Blender - No Coding Needed!](https://www.youtube.com/watch?v=SwU4iVy1XpU) - Feb 10th, 2022
