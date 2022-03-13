@@ -15,7 +15,7 @@
   - None
 
 - `Cozy Place Example.blend` 
-  - [Easily generate 3D Model NFTs in Blender - No Coding Needed!](https://www.youtube.com/watch?v=SwU4iVy1XpU) - Feb 10th, 2022
+  - [Create thousands of NFTs in Blender | Blend_My_NFTs UI Edition](https://www.youtube.com/watch?v=SwU4iVy1XpU) - Feb 10th, 2022
   
 - `Cozy_Robot_Example.blend`:
   - [Blend_My_NFTs UI Edition - Demo Live Stream](https://www.youtube.com/watch?v=ZxcjhjuOgQ4) - Feb 4th, 2022
