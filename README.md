@@ -11,7 +11,7 @@
 </p>
 
 ## Files by Versions and YouTube Tutorials: 
-- `Logic_Example.blend`
+- `New Features Example.blend`
   - None
 
 - `Cozy Place Example.blend` 
